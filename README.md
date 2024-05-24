@@ -1,3 +1,3 @@
-# vod_no1
+# no1
 
-http://vod_no1.jobability.co.kr/
+http://no1.jobability.co.kr/
