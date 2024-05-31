@@ -1,3 +1,4 @@
 # no1
 
-http://no1.jobability.co.kr/
+
+no1.jobability.co.kr
