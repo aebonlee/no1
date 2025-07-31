@@ -1,4 +1,4 @@
 # no1
 
 
-http://no1.jobability.co.kr/
+https://aebonlee.github.io/no1/
